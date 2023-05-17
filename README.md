@@ -28,7 +28,7 @@ The first step undertaken by the team is to articulate the strategy. A "Value Pr
 
 ![ValuePropositionCanvas](deliverables/ValuePropositionCanvas.png)
 
-This process led us to understand our market segment and relate it to a value-adding proposition. From the previous figure it is worth indicating some elements observed such as "Payment of reservations" and its counterpart in "Functionality", "View, schedule, and pay for available hours" this allows us to better understand our product in the terms described above. There are also other elements that were of initial consideration such as the search for referees, which would eventually be discarded by the team.
+This process led us to understand our market segment and relate it to a value-adding proposition. From the previous figure it is worth indicating some elements observed such as "Payment of reservations" and its counterpart in "Functionality", "View, schedule, and pay for available hours" this allows us to better understand our product in the terms described above. There are other elements that were of initial consideration such as the search for referees, which would eventually be discarded by the team.
 
 ---
 
